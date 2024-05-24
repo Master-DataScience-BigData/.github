@@ -71,7 +71,7 @@ We welcome contributions from students, faculty, and the wider community. To con
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct](https://github.com/your-org/code-of-conduct) to ensure a welcoming and respectful environment for everyone.
+Please read and follow our [Code of Conduct](https://github.com/Master-DataScience-BigData/.github/blob/main/CODE_OF_CONDUCT.md) to ensure a welcoming and respectful environment for everyone.
 
 ## Contact
 
